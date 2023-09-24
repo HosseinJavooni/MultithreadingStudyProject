@@ -1,4 +1,4 @@
-package introduction;
+package concurrencySimplified.introduction;
 
 class TaskInMulti extends Thread{
     @Override

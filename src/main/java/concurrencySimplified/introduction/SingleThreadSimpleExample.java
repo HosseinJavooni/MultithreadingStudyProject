@@ -1,4 +1,4 @@
-package introduction;
+package concurrencySimplified.introduction;
 
 class Task{
     public void print(){
